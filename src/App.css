@@ -1,0 +1,67 @@
+body {
+  background-image: url(./images/background.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.find_page {
+  color: antiquewhite;
+}
+.head {
+  font-size: 60px;
+}
+
+.singUp_page {
+  background-color: aliceblue;
+  width: 50%;
+  min-height: 70vh;
+  padding: 30px;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.singUp_page h1 {
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.login_page {
+  background-color: aliceblue;
+  width: 50%;
+  padding: 30px;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 150px;
+}
+.login_page h1 {
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+.ing_Details {
+  background-color: aliceblue;
+  width: 50%;
+  border-radius: 30px;
+  margin: 50px 320px;
+  text-align: center;
+  padding: 50px;
+}
+
+.recipeView_page img {
+  width: 350px;
+  height: 300px;
+  padding: 15px;
+  border-radius: 100%;
+}
+
+.recipeView_page {
+  font-family: "Alfa Slab One", cursive;
+  padding: 10px;
+}
+
+.btn_view {
+  float: right;
+  margin: 0px 30px;
+}
